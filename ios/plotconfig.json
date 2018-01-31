@@ -1,0 +1,6 @@
+{
+    "publicToken": "YOUR_TOKEN",
+    "enableOnFirstRun": true,
+    "debug": true,
+    "emulatorTesting": true
+}
